@@ -16,9 +16,8 @@ author: Rodolfo Castro
 navbar-links:
   About Me: "Business Consultant by day, Planning the Revenge of the AGI by night"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Kaggle: "https://www.kaggle.com/rudiboiii
+  Author's Github: "https://github.com/rud0812"
 
 # --- Logo --- #
 
@@ -31,7 +30,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/avatar-icon.png"
 
 
 # --- Footer social media links --- #
@@ -78,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Rodolfo's Portfolio"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
