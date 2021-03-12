@@ -16,7 +16,7 @@ author: Rodolfo Castro
 navbar-links:
   About Me: "Business Consultant by day, Planning the Revenge of the AGI by night"
   Resources:
-    - Kaggle: "https://www.kaggle.com/rudiboiii
+    - Kaggle: "https://www.kaggle.com/rudiboiii"
   Author's Github: "https://github.com/rud0812"
 
 # --- Logo --- #
@@ -30,7 +30,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-# title-img: /assets/img/avatar-icon.png
+title-img: "/assets/img/avatar-icon.png"
 
 
 # --- Footer social media links --- #
