@@ -14,7 +14,7 @@ author: Rodolfo Castro
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "/aboutme.md"
+  About Me: "aboutme.md"
   Resources:
     - Kaggle: "https://www.kaggle.com/rudiboiii"
   Author's Github: "https://github.com/rud0812"
