@@ -14,7 +14,7 @@ author: Rodolfo Castro
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Business Consultant by day, Planning the Revenge of the AGI by night"
+  About Me: "/aboutme.md"
   Resources:
     - Kaggle: "https://www.kaggle.com/rudiboiii"
   Author's Github: "https://github.com/rud0812"
@@ -38,7 +38,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "rodolfo0812@gmail.com.com"
+  email: "rodolfo0812@gmail.com"
 #  facebook: deanattali
   github: rud0812
   twitter: rudiboiii
