@@ -7,33 +7,38 @@ subtitle: Bringing Balance to NN
 <div id="aboutme-section">
 
 <p class="about-text">
+<span class="fa fa-user-circle-o about-icon"></span>
+  Hi, my name is <strong>Rodolfo Castro</strong>, I'm 26 years old and I enjoy learning new things that can make a positive impact in the world.
+</p>
+
+<p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi, my name is <strong>Rodolfo Castro</strong>, I am an avid open source enthusiast, contributor and developer living in Long Beach, California, US.
+  I spent the last ~2 years working as a Business Transformation Consultant for EY in the Financial Services Industry. Projects ranged from M&A implementation of bank operations to creating Data Governance models. Dutties mainly involved providing frameworks, project management skills and industry knowledge to stakeholders and other high executives to effectively implement multi-million business transformation projects and/or strategies. 
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my <strong>Bachelor of Technology</strong> degree in Computer Science & Engineering from the University School of Information, Communication & Technology in New Delhi, India. I am currently pursuing a <strong>Master of Science in Computer Science</strong> degree from California State University Long Beach.
+I obtained my <strong>Bachelor's</strong> degree in Industrial Engineering from Florida State University. After, I obtained a <strong>Master's</strong> degree in Mathematical and Computational Finance from University of North Carolina at Charlotte.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
-</p>
-
-<p class="about-text">
-<span class="fa fa-book about-icon"></span>
-I enjoy reading books. In 2018, with an average of 1 book per week, I completed a Reading Challenge for reading 51 books. A list of those amazing books can be found. Make sure to add some of them to your future reading list.
+I learned several programming languages in college and graduate school but I'm mostly proficient in Python. I enjoy comming up with different ways of looking at Data and spend my time learning new ML Algorithms and doing Kaggle Competitions.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Also, I am very fond of playing video games. I love to create digital art and play around with my Photoshop skills. Apart from this, I love listening to music and master my culinary skills.
+I enjoy reading and watching movies/tv shows. Main topics include macroeconomics, history, AI and Star Wars. I'm a huge Star Wars fan and this is the main reason I named my website The Rise of AGI. I'll come up with new and better puns in the future lol.
+</p>
+
+<p class="about-text">
+<span class="fa fa-futbol-o about-icon"></span>
+Also, I'm a huge fan of sports and specifically soccer (Big Man Utd fan #GGMU). I played the soccer all my life and even got to play in a highly competitive level. Now, I spend my day watching the Premier League and UCL. <a target="_blank" href="https://github.com/Friends-of-Tracking-Data-FoTD">Friends of Tracking</a> have been a huge inspiration for the creation of this website, so I will definetly be doing some cool soccer analytics projects based on their research.
 </p>
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab on building something super awesome together. Follow my social media links given in the footer below or drop an email <a target="_blank" href="mailto:rodolfo0812@gmail.com">here</a>.
+If you like my blog posts or any of my projects and want to colab in anything, send me an email <a target="_blank" href="mailto:rodolfo0812@gmail.com">here</a>.
 </p>
 
 
