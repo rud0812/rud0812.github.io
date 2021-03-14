@@ -1,16 +1,45 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What is this website all about?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Rodolfo Castro and this is my journey into Data Science. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm a huge Star Wars fan so expect funny puns and jokes while reading my posts (like the website's name).
 
-What else do you need?
+I do expect AGI to rise in some near future and I want to be part of it. 
+
+### My goals
+
+- Learn state of the art ML. (I'll be posting every cool new thing I've learned)
+- Get a job as a Data Scientist (hopefully sonner than later)
+- Do cool stuff that challenge me and improve me as a Data Scientist.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Back when I was in High School, I had no idea what I wanted to do with my life, I just wanted to play soccer all day every day. I was a pretty mediocre student, I never opened a book or did any homeworks but managed to get the minimum scores in all my classes to pass. Only classes I exceled at were Math and Physics. Not because I studied, but I just had a natural talent and find it easy enough to not open a book and still get A's. 
+
+Coming from a family full of Doctors, Lwayers and some Engineers, I was pushed to go into the Engineering track in college. I knew I was good good enough so I went with it. 
+
+After my first two years of college, following the engineering track, I had to decide which engineering to choose. I ended up going for Industrial Engineering because I liked the stats and operations research curriculum. This is where my Data Science dream began. I had no idea what was ML back in 2015/2016 but I knew I wanted to work with Data and high level analytics. 
+
+I became really close to my Stats, Quality Control and OR professors which pushed me into getting an MS or even a PhD in a quantitative field related to their research. I ended up exploring what I wanted to do and with help of my professors I applied to different Financial Engineering programs. Ended up in a really good Mathematical Finance program. 
+
+When I got there, reality hit me really hard. Before, I practically breezed throguh college, I was top of my class in most of my Math or Stats courses. In Math Finance, everyone came from a more technical background than mine (usally Applied Mathematics or other Engineering majors) and they all had the same ambission: to be Randomnly Walking down Wall St.
+
+Graduate school was fun and extremely intense. I learned so many new things. Things most people don't even know they exist. I had the opportunity of staying in the US and working in some decent risk jobs but after getting home sick and some personal issues, I came back to Panama. 
+
+I started looking for a job which I would apply what I've learned in both College and Graduate School, I came up with a very good opportunity to work as a Business Transformation Consultant for a Big 4 in the financial services industry. This job appealed to me at first because I thought we were going to implement cutting edge technologies to financial institutions and I would have exposure to upper management as a consultant. 
+
+After a while, I realised the consulting dream was not as pretty as it sounded. While exposure to upper management was garanteed from day 1, benig a BT consultant had many downsides. I'm not goint to list them all but aside from the usual long hours and mindless powerpoint presentations, I found out I was just a glorified Project Manager implementing archaic technologies and business processes. 
+
+The pandemic came and all the good things Consulting had to offer(exposure and networking) banished in a second. Work from home desimated the consulting industry IMO. Months went by and my motivation went to the floor. I couldn't even managed to finish a simple PPT presentation. This is when I started to look up new things to learn to keep motivated. 
+
+I ended up reviving my love for Stats and Math by watching cool podcast from Lex Fridman and other youtube channels. I stumbled on some Data Science youtube channels and people talking how they became DS or Software Eng and even how someone went from Investment Banking to Software Engineering. 
+
+I started relearning Python and started doing some cool project with data I had but because of the limited time and energy I had from my Consulting Job, I couldn't commmit to DS. Time went by and I fell into the same mindless routine of Consulting, doing endless PPT presentations and it just clicked one day. I had to pursue my passions. I decided to quit and learn Data Science by myself. 
+
+This is where my story catches up to the creation of this website. I will take everything day by day and try to be the best Data Scientist I can be. 
+
+
