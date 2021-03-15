@@ -30,12 +30,7 @@ subtitle: Bringing Balance to NN
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-    I enjoy reading and watching movies/tv shows. Main topics include macroeconomics, history, AI and Star Wars. I'm a huge Star Wars fan and this is the main reason I named my website The Rise of AGI. I'll come up with new and better puns in the future lol.
-</p>
-
-<p class="about-text">
-<i class="fa fa-futbol-o" aria-hidden="true"></i>
-    Also, I'm a huge fan of sports and specifically soccer (big Man Utd fan #GGMU). I played the soccer all my life and even got to play in a highly competitive level. Now, I spend my day watching the Premier League and UCL. <a target="_blank" href="https://github.com/Friends-of-Tracking-Data-FoTD">Friends of Tracking</a> have been a huge inspiration for the creation of this website, so I will definetly be doing some cool soccer analytics projects based on their research.
+    I enjoy reading and watching movies/tv shows. Main topics include macroeconomics, history, AI and Star Wars. I'm a huge Star Wars fan and this is the main reason I named my website The Rise of AGI. I'll come up with new and better puns in the future lol. Also, I'm a huge fan of sports and specifically soccer (big Man Utd fan #GGMU). I played the soccer all my life and even got to play in a highly competitive level. Now, I spend my day watching the Premier League and UCL. <a target="_blank" href="https://github.com/Friends-of-Tracking-Data-FoTD">Friends of Tracking</a> have been a huge inspiration for the creation of this website, so I will definetly be doing some cool soccer analytics projects based on their research.
 </p>
 
 <p class="about-text">
