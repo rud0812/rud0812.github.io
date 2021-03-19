@@ -74,7 +74,7 @@ $$𝐽(ø)={1\over{2𝑚}}∑(ℎ_ø(𝑥^{(i)})−𝑦^{(𝑖)})^2$$
 where the hypothesis $h_ø(x)$ is given by the linear model: 
 $$h_ø(x)=ø_0+ø_1x_1+ø_2x_2+...+ø_nx_n = ø^Tx$$
 
-First, we need to append $x_0=1$ vector to our vector X, create a thetha vector and set alpha and iterations. Set n (rows) and m (cols) for X train
+First, we need to append $$x_0=1$$ vector to our vector X, create a thetha vector and set alpha and iterations. Set n (rows) and m (cols) for X train
 
 
 ```python
@@ -95,7 +95,7 @@ def computeCost(X, y, theta):
     return J
 ```
 
-Compute $J(ø)$ with theta = 0
+Compute $$J(ø)$$ with theta = 0
 
 
 ```python
@@ -115,7 +115,7 @@ print(computeCost(X_train, y,[-1,2]))
     54.24245508201236
 
 
-Now, we have to minimize $ø_0$ and $ø_1$ simultaneously, to be able to min the cost function $J(ø)$
+Now, we have to minimize $$ø_0$$ and $$ø_1$$ simultaneously, to be able to min the cost function $$J(ø)$$
 
 $$\theta_j := \theta_j - \alpha \frac{1}{m} \sum_{i=1}^{m}{(h_{\theta}(x^{(i)}) - y^{(i)}) x^{(i)}_j}$$
 
@@ -139,7 +139,7 @@ print("theta computed gradient descent:",(theta_opt))
     theta computed gradient descent: [-3.63029144  1.16636235]
 
 
-Now, lets plot this new theta_opt in the scatter plot with $ℎ_ø(𝑥)=ø_0+ø_1𝑥_1$
+Now, lets plot this new theta_opt in the scatter plot with $$ℎ_ø(𝑥)=ø_0+ø_1𝑥_1$$
 
 
 ```python
@@ -208,7 +208,7 @@ y = data2[:,2]
 
 ### Problem 3.1: Feature Normalization
 
-Looking at X and y, they both have different scales. We want to mean normalise them so we can get a better gradient descent minimization of the cost function $J(ø)$
+Looking at X and y, they both have different scales. We want to mean normalise them so we can get a better gradient descent minimization of the cost function $$J(ø)$$
 
 
 ```python
@@ -223,7 +223,7 @@ X_norm, mean, std = featureNormalize(X)
 
 ### Problem 3.2: Gradient Descent Multi
 
-To get strted we set the variables n,m, theta, iters, alpha, and X_train (just X_norm appended to $x_0=1$
+To get strted we set the variables n,m, theta, iters, alpha, and X_train (just X_norm appended to $$x_0=1$$
 
 
 ```python
@@ -279,7 +279,7 @@ plt.show()
     
 
 
-After getting the optimal theta with feature normalization, we can make predictions for our $h(ø)$
+After getting the optimal theta with feature normalization, we can make predictions for our $$h(ø)$$
 
 We start first by setting the prediciton variables as X_predict and normalizing those variables using our function featureNormalize
 
@@ -289,7 +289,7 @@ X_predict = [1650,3]
 X_predict_norm = (X_predict-mean)/std
 ```
 
-Then, we must append $x_0=1$ so that we can make our prediction with the normalized value
+Then, we must append $$x_0=1$$ so that we can make our prediction with the normalized value
 
 
 ```python
@@ -303,7 +303,7 @@ print("Estimate the price of a 1650 sq-ft, 3 br house",h_pred)
 
 ### Optional
 
-check convergance rate to minimum $J(ø)$ with different alphas
+check convergance rate to minimum $$J(ø)$$ with different alphas
 
 
 ```python
