@@ -24,6 +24,9 @@ common-js:
 <!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
 {% include head.html %}
 <head>
+  {% if page.use_math %}
+  {% include mathjax_support.html %}
+  {% endif %}
   <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 </head>
 

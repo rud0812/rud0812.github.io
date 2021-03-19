@@ -4,6 +4,7 @@ title: Linear Regression
 subtitle: Building my first LR model from scratch
 thumbnail-img: /assets/img/posts/2021-03-19-linear-reg/linear_regression.png
 tags: [ML,courses]
+use_math: true
 ---
 
 This is a new series of posts that will focus on implementing Andrew Ng's ML course in Python. Each post will be a weeks assignment.
