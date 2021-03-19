@@ -67,9 +67,11 @@ plt.show()
 
 ### Problem 2.2: Gradient Descent
 
-Objective of LR is to minimize cost function $$𝐽(ø)={1\over{2𝑚}}∑(ℎ_ø(𝑥^{(i)})−𝑦^{(𝑖)})^2$$
+Objective of LR is to minimize cost function 
+$$𝐽(ø)={1\over{2𝑚}}∑(ℎ_ø(𝑥^{(i)})−𝑦^{(𝑖)})^2$$
 
-where the hypothesis $h_ø(x)$ is given by the linear model: $$h_ø(x)=ø_0+ø_1x_1+ø_2x_2+...+ø_nx_n = ø^Tx$$
+where the hypothesis $h_ø(x)$ is given by the linear model: 
+$$h_ø(x)=ø_0+ø_1x_1+ø_2x_2+...+ø_nx_n = ø^Tx$$
 
 First, we need to append $x_0=1$ vector to our vector X, create a thetha vector and set alpha and iterations. Set n (rows) and m (cols) for X train
 
