@@ -10,7 +10,7 @@ use_fontawesome: true
 
 
 <p class="about-text">
-<i class="fa fa-user-circle-o" aria-hidden="true"></i>
+<i class="fa fa-user-circle-o about-icon"></i>
     Hi, my name is <strong>Rodolfo Castro</strong>, I'm 26 years old and I enjoy learning new things that can make a positive impact in the world.
 </p>
 
