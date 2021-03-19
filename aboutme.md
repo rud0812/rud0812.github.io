@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Bringing Balance to NN
+use_fontawesome: true
 ---
 
 <div id="aboutme-section">

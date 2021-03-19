@@ -24,10 +24,30 @@ common-js:
 <!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
 {% include head.html %}
 <head>
-  {% if page.use_math %}
-  {% include mathjax_support.html %}
-  {% endif %}
-  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+  {%- if page.use_math -%}
+    <script type="text/javascript">
+      window.MathJax = {
+        tex: {
+          macros: {
+            E: "{\\mathbb{E}}",
+            R: "{\\mathbb{R}}"
+          },
+          // Use AMS numbering rules and support labeled equations.
+          // See https://docs.mathjax.org/en/latest/input/tex/eqnumbers.html
+          tags: 'ams'
+        }
+      };
+    </script>
+    <script type="text/javascript" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+    </script>
+  {%- endif -%}
+  
+  {%- if page.use_fontawesome -%}
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
+    crossorigin="anonymous">
+  {%- endif -%}
+
 </head>
 
 <body>
