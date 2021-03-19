@@ -71,7 +71,7 @@ plt.show()
 Objective of LR is to minimize cost function 
 $$𝐽(ø)={1\over{2𝑚}}∑(ℎ_ø(𝑥^{(i)})−𝑦^{(𝑖)})^2$$
 
-where the hypothesis $h_ø(x)$ is given by the linear model: 
+where the hypothesis $$h_ø(x)$$ is given by the linear model: 
 $$h_ø(x)=ø_0+ø_1x_1+ø_2x_2+...+ø_nx_n = ø^Tx$$
 
 First, we need to append $$x_0=1$$ vector to our vector X, create a thetha vector and set alpha and iterations. Set n (rows) and m (cols) for X train
@@ -86,7 +86,7 @@ iters = 1500
 alpha = 0.01
 ```
 
-Now we can compute cost function $J(ø)$
+Now we can compute cost function $$J(ø)$$
 
 
 ```python
@@ -105,7 +105,7 @@ print(computeCost(X_train, y, theta))
     32.07273387745567
 
 
-Compute $J(ø)$ with theta = (-1,2)
+Compute $$J(ø)$$ with theta = (-1,2)
 
 
 ```python
@@ -193,7 +193,7 @@ print("For population 35k and 70k, we predict a profit of \n",h_35k,h_70k)
 Things to keep in minds 
 - np.dot is matrix multiplication
 - np.multuply is element-wise multiplication
-- $*$ is elemnt-wise multiplication on arrays and vectors but matrix multiplication on matrices
+- $$*$$ is elemnt-wise multiplication on arrays and vectors but matrix multiplication on matrices
 
 ## Problem 3: Linear Regression with Multiple Variables 
 
