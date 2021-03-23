@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neural Networks and Backpropagation
+title: NN and Backpropagation
 subtitle: Backpropagation algorithm for computing the gradient of the cost function
 thumbnail-img: /assets/img/posts/2021-03-23-NN-BackProp/BPNN.jpg
 tags: [ML,courses]
