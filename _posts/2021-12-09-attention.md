@@ -6,8 +6,6 @@ thumbnail-img: /assets/img/posts/2021-12-09-attention/attention_research_1.png
 tags: [DL, attention, masters]
 use_math: true
 ---
-    
-# Attention: Bahdanau Attention vs Luong Attention
 
 ### Bahdanau Attention
 
