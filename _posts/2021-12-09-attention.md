@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Fastai - Practical DL for Coders
-subtitle: Best Deep Learning MOOC?
+title: Bahdanau and Luong Attention Models
+subtitle: What is the difference between both models?
 thumbnail-img: /assets/img/posts/2021-12-09-attention/attention_research_1.png
 tags: [DL, attention, masters]
 use_math: true
