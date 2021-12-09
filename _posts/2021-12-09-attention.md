@@ -35,15 +35,9 @@ class BahdanauAttention(tf.keras.layers.Layer):
 - All hidden states of the encoder(forward and backward) and the decoder are used to generate the context vector.
 - The attention mechanism aligns the input and output sequences, with an alignment score parameterized by a feed-forward network. It helps to pay attention to the most relevant information in the source sequence.
 - The model predicts a target word based on the context vectors associated with the source position and the previously generated target words.
-
-
-```python
-display.Image("./BA.png")
-```
     
-![png](Rodolfo_Assignment_3_files/Rodolfo_Assignment_3_10_0.png)
+![png](/assets/img/posts/2021-12-09-attention/Rodolfo_Assignment_3_10_0.png)
     
-
 These 3 steps explained above can be cleary seen in the BahdanauAttention class and the image above. In this example, the sequence given to the encoder was a sentence in English and the decoded result was the translation in Arab.
 
 
@@ -98,23 +92,13 @@ class LuongGeneralAttention(tf.keras.layers.Layer):
 - The goal is to derive a context vector to capture relevant source-side information to help predict the current target word.
 - Context vectors are fed as inputs to the next time steps to inform the model about past alignment decisions.
 
-
-```python
-display.Image("./GA.png")
-```
-
-![png](Rodolfo_Assignment_3_files/Rodolfo_Assignment_3_17_0.png)
+![png](/assets/img/posts/2021-12-09-attention/Rodolfo_Assignment_3_17_0.png)
     
 
 These 3 steps explained above can be cleary seen in the LuongGeneralAttention and LuongDotAttention classes and the image above. In comparison we can look at the next image which is the Local attention model.
 
-
-```python
-display.Image("./LA.png")
-```
-
     
-![png](Rodolfo_Assignment_3_files/Rodolfo_Assignment_3_19_0.png)
+![png](/assets/img/posts/2021-12-09-attention/Rodolfo_Assignment_3_19_0.png)
     
 Now we can clearly see the difference of the Local vs Global Luong Attention models. 
 
