@@ -11,28 +11,27 @@ use_fontawesome: true
 
 <p class="about-text">
 <i class="fa fa-user-circle-o about-icon"></i>
-    Hi, my name is <strong>Rodolfo Castro</strong>, I'm 26 years old and I enjoy learning new things that can make a positive impact in the world.
+    Hi, my name is <strong>Rodolfo Castro</strong> and I enjoy learning new things and coding fun projects.
 </p>
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-    I spent the last ~2 years working as a Business Transformation Consultant for EY in the Financial Services Industry. Projects ranged from M&A implementation of bank operations to creating Data Governance models. Dutties mainly involved providing frameworks, project management skills and industry knowledge to stakeholders and other high executives to effectively implement multi-million business transformation projects and/or strategies. 
+    I currently work as a Data Engineer at SCRM by Lidl in Barcelona, Spain. I'm new in the field so I'm learning new things every day. Before being a Data Engineer, I was a Business Consultant for EY in Panama. 
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-    I obtained my <strong>Bachelor's</strong> degree in Industrial Engineering from Florida State University. After, I obtained a <strong>Master's</strong> degree in Mathematical and Computational Finance from University of North Carolina at Charlotte.
+    I obtained my <strong>Bachelor's</strong> degree in Industrial Engineering from Florida State University. After, I obtained a <strong>Master's</strong> degree in Mathematical and Computational Finance from University of North Carolina at Charlotte and I'm currently doing my second <strong>Master's</strong> degree in Data Science at Universitat de Barcelona.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-    I learned several programming languages in college and graduate school but I'm mostly proficient in Python. I enjoy comming up with different ways of looking at Data and spend my time learning new ML Algorithms and doing Kaggle Competitions.
+    I learned several programming languages in college and graduate school but I'm mostly proficient in Python. Currently, I've been learining Scala since my job as a Data Engineer requieres it because all the Data Infrastructure is built on top of it. Also, have become proficient in SQL (and Spark) from handling data all day long.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-    I enjoy reading and watching movies/tv shows. Main topics include macroeconomics, history, AI and Star Wars. I'm a huge Star Wars fan and this is the main reason I named my website The Rise of AGI. I'll come up with new and better puns in the future lol. Also, I'm a huge fan of sports and specifically soccer (big Man Utd fan #GGMU). I played the soccer all my life and even got to play in a highly competitive level. Now, I spend my day watching the Premier League and UCL. <a target="_blank" href="https://github.com/Friends-of-Tracking-Data-FoTD">Friends of Tracking</a> have been a huge inspiration for the creation of this website, so I will definetly be doing some cool soccer analytics projects based on their research.
-</p>
+    I enjoy reading and watching movies/tv shows. Main topics include macroeconomics, history, AI, Sci-fi and Star Wars. I'm a huge Star Wars fan and this is the main reason I named my website The Rise of AGI. I'll come up with new and better puns in the future.
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
